@@ -1,0 +1,177 @@
+<html>
+    <title>♡knited.travel♡</title>
+    
+    <head>
+       
+        <link ref="stylesheet" href="style.css">
+
+    </head>
+    <body>
+        <img class="pon" src="https://symbl.cc/i/webp/64/82dd09ea47ca20039bdbd4e109ccfe.webp"width="50px" height="50px">
+        <header>
+            <nav>
+                <a href="#about">Про нас</a>
+          <a href="#schedule">Графік роботи</a>
+          <a href="#linia">Гаряча лінія</a>
+            </nav>
+        </header>
+        <main>
+        <h1> ♡knited.travel♡ </h1>
+        <p class="hz">
+           <b> Ми раді вас бачити на нашому сайті</b>   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNaF336L1bOQAvGLj2ZUYhwvQl2lxhgLp_vZOY4XRdeUW08oV0sh27FupdCMZdRR7rhk&usqp=CAU" " width="50pxheight="40px">
+            </p>
+            <h2 id="about">Про нас</h2>
+            <h2>ГАРЯЧІ ПУТІВКИ🔥</h2>
+           <p class="krainu"> Мальдіви ☆☆☆☆☆
+                1 000 000грн<br>
+                 <img src="https://lh3.googleusercontent.com/proxy/FD_hPVCHV68y9Ch8mZGJQ32TstObp73pm-Y22T5JEI-9jesvQ78XeRGr07Li2ZlJNNLyegjU9xSO9sopmbeVZmW_1iTBnjFa" width="300px" height="300px"></p>
+                 
+            
+                <p class="krainu">
+                    Турція ☆☆☆☆☆
+                    50 000грн<br>
+                    <img src="https://img.hotels24.ua/photos/ria/new_images/1123/112320/11232045/11232045m.jpg"width="300px" height="300" >
+                    </p>
+                    <p class="krainu">Єгипет ☆☆☆☆ 20 000 грн<br>
+                       <img src="https://turvopros.com/wp-content/uploads/2021/10/kurorty-egipta-na-krasnom-more.jpg "width="300px" height="300px">
+
+
+
+                    </p>
+
+                    <p class="krainu">
+                        Болгарія ☆☆☆☆ 15 000 грн<br>
+                       <img src="https://img.pravda.com/images/doc/3/6/36d0bf3-tury-v-bolgariyu-iz-kharkova.jpg" width="300px" height="300px">
+
+
+
+                    </p>
+                    <p class="krainu">
+                        Дубай ☆☆☆☆☆ 309 900грн<br>
+                        <img src="https://turvopros.com/wp-content/uploads/2023/01/otel-parus-v-dubae.jpg"
+                        width="300px"height="300px" > 
+
+
+                        </p>
+                        <h2 id="schedule">Графік роботи</h2>
+
+
+
+                
+                    <table style="border:3px solid#85A3E5; border-collapse:collapse">
+                        <tr>
+                            <td style=" border:3px solid#85A3E5">Робочі дні</td>
+
+
+
+                            <td style=" border:3px solid#85A3E5">Вихідні</td>
+                        </tr>
+
+                        <tr>
+                            <td style=" border:3px solid#85A3E5">Понеділок</td>
+                            <td style=" border:3px solid#85A3E5">Субота</td>
+                            
+
+
+                
+
+
+
+
+                        </tr>
+                        <tr>
+                            <td style=" border:3px solid#85A3E5">Вівторок</td>
+                            <td style=" border:3px solid#85A3E5">Неділя</td>
+
+
+
+                        </tr>
+                        <tr>
+                            <td style=" border:3px solid#85A3E5">Середа</td>
+
+
+
+
+                        </tr>
+
+                        
+                        <tr>
+                            <td style=" border:3px solid#85A3E5 ">Четвер</td>
+
+
+                        </tr>
+                        <tr>
+                            <td style=" border:3px solid#85A3E5">П'ятниця</td>
+
+                        </tr>
+
+                    </table>
+                            
+                                        
+
+
+
+         
+            
+            
+        
+        </main>
+        <footer>
+        <b id="linia">0977890175
+        Трипільська 13a</b>
+
+        </footer>
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
